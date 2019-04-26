@@ -6,3 +6,5 @@ https://raw.githubusercontent.com/facebook/react-native/0.51-stable/docs/MoviesE
 
 
 https://react-native-docs.xgqfrms.xyz/json/MoviesExample.json
+
+https://cdn.xgqfrms.xyz/json/react-native/MoviesExample.json
